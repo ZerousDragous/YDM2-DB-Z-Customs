@@ -1,11 +1,11 @@
 {
-  "id": 318015170320021,
+  "id": 48348921,
   "name": "Number C62: Neo Galaxy-Eyes Prime Photon Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 8 monsters\nIf this card battles, during damage calculation (Quick Effect): You can detach 1 material from this card once per battle; this card gains ATK equal to the combined Ranks of all Xyz Monsters currently on the field x 200, during that damage calculation only. If this card in its owner's control is destroyed by an opponent's card effect while it has \"Galaxy-Eyes Photon Dragon\" as Xyz Material: You can Special Summon this card during your 2nd Standby Phase after activation and double its ATK. Any battle damage this card inflicts to your opponent is halved unless it has \"Galaxy-Eyes Photon Dragon\" as Xyz Material.",
+  "text": "3 Level 8 LIGHT monsters\nYou can also Xyz Summon this card by using \"Number 62: Galaxy-Eyes Prime Photon Dragon\" you control. (Transfer its materials to this card.) At the start of your Battle Phase: You can detach 1 material from this card; this card can make up to 3 attacks on monsters during this Battle Phase. If this card has \"Galaxy-Eyes Photon Dragon\" as material, it gains these effects.\n● Unaffected by your opponent's monster effects.\n● Gains ATK equal to the combined Levels/Ranks of its attached materials x 100.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/31801517.jpg"
+    "https://images.ygoprodeck.com/images/cards/48348921.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
