@@ -1,0 +1,25 @@
+{
+  "id": 3102002693,
+  "name": "Succubus Millim",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "One of Lilith’s twin daughters, she possesses an obsessive fascination with fusion magic. Through twisted bonds of flesh and flame, she forges new horrors from those foolish enough to stand in her way.",
+  "images": [
+    "https://i.ibb.co/mrV9B88h/Succubus-Millim.png"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000 ,
+  "species": "Fiend",
+  "monster_type": "Pendulum",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+  "pendulum_text": "Once per turn: You can Ritual Summon 1 DARK Fiend monster from your hand, using monsters you control or in your hand as Tributes. While this card is in your Pendulum Zone, you can only Pendulum Summon Fiend-Type monsters.",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2
+  
+}
