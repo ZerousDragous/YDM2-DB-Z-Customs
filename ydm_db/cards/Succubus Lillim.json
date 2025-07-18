@@ -1,0 +1,21 @@
+{
+  "id": 3102002692,
+  "name": "Succubus Lillim",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "A demon that prays on men in their dreams",
+  "images": [
+    "https://i.ibb.co/9HJvnxyb/Low-Ranking-Succubus.png"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}
