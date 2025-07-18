@@ -9,7 +9,7 @@
   ],
   "type": "Monster",
   "attribute": "DARK",
-  "atk": ,
+  "atk": 1500,
   "species": "Fiend",
   "monster_type": "Pendulum",
   "is_pendulum": true,
