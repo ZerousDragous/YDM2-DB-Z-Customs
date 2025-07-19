@@ -1,0 +1,12 @@
+{
+  "id": 3102002697,
+  "name": "Eternal Bondage",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 monster your opponent controls; while this card is on the field, that monster cannot declare an attack.",
+  "images": [
+    "https://i.ibb.co/nNzL9h46/Eternal-Bondage.png"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}
