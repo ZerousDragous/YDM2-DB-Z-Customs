@@ -1,0 +1,20 @@
+{
+  "id": 3102002698,
+  "name": "Succubus Lilith",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Level 5 *Succubus* monsters/nWhen this card destroys an opponent’s monster by battle and sends it to the Graveyard: You can detach 1 material from this card; Special Summon that monster to your field in Attack Position.",
+  "images": [
+    "https://i.ibb.co/ynRXV8T8/Succubus-Lillith.png"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Fiend",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "rank": 5
+}
