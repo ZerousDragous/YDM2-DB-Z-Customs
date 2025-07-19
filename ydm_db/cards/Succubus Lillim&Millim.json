@@ -9,13 +9,13 @@
   ],
   "type": "Monster",
   "attribute": "DARK",
-  "atk": 4500,
+  "atk": 1800,
   "species": "Fiend",
   "monster_type": "Fusion",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": 3800,
+  "def": 1800,
   "level": 6,
   "is_tuner": false
 }
