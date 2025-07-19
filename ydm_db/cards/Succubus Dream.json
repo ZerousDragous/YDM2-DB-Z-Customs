@@ -1,0 +1,12 @@
+{
+  "id": 31020026913,
+  "name": "Succubus Dream",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Add 1 *Succubus* monster from your Deck to your hand.",
+  "images": [
+    "https://i.ibb.co/Zzv7g6Ss/Succubus-Dream.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}
