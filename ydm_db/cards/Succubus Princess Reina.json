@@ -1,0 +1,21 @@
+{
+  "id": ,
+  "name": "Succubus Princess Reina",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Ritual Summon this card with *Ritual of the Scarlet Throne*. You can banish 2 *Succubus* monsters from your Graveyard; Special Summon this card (from your Graveyard)./nThis card gains 300 ATK for each *Succubus* monster in your Graveyard./nIf this card is sent from the field to the Graveyard: You can target 1 monster your opponent controls; take control of it. You can only activate this effect of *Succubus Princess Reina* once per turn.",
+  "images": [
+    "https://i.ibb.co/21jKCh7s/Succubus-Princess-Reina.png"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Fiend",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}
