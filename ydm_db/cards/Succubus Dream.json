@@ -3,7 +3,7 @@
   "name": "Succubus Dream",
   "is_illegal": false,
   "is_custom": true,
-  "text": "Add 1 *Succubus* monster from your Deck to your hand.",
+  "text": "All *Succubus* monsters on the field cannot be destroyed by battle.",
   "images": [
     "https://i.ibb.co/Zzv7g6Ss/Succubus-Dream.png"
   ],
