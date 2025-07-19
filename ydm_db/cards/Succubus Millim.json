@@ -19,6 +19,6 @@
   "level": 4,
   "is_tuner": false,
   "pendulum_text": "Once per turn: You can Fusion Summon 1 DARK Fiend monster from your Extra Deck, using monsters from your hand or field as Fusion Material. While this card is in your Pendulum Zone, you can only Pendulum Summon Fiend-Type monsters.",
-  "pendulum_scale_left_blue": 6,
-  "pendulum_scale_right_red": 6
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2
 }
