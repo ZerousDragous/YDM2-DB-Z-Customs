@@ -1,0 +1,21 @@
+{
+  "id": 3102002696,
+  "name": "Succubus Seductress",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Special Summon this card from your hand by Tributing 1 *Low-Ranking Succubus* you control. If this card is Special Summoned: You can take control of 1 monster your opponent controls until the End Phase.",
+  "images": [
+    "https://i.ibb.co/yBMyNM6J/Succubus-Seductress.png"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}
