@@ -9,13 +9,13 @@
   ],
   "type": "Monster",
   "attribute": "DARK",
-  "atk": 2000,
+  "atk": 4000,
   "species": "Fiend",
   "monster_type": "Xyz",
   "is_pendulum": false,
   "ability": "",
   "has_effect": false,
-  "def": 1000,
+  "def": 3000,
   "rank": 6,
   "is_tuner": false
 }
