@@ -1,0 +1,12 @@
+{
+  "id": 31020026910,
+  "name": "Succubus Temptation",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control a face-up *Succubus* monster: Target 1 face-up monster your opponent controls; take control of that monster until the End Phase.",
+  "images": [
+    "https://i.ibb.co/4ZsfKhSL/Succubus-Temptation.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
