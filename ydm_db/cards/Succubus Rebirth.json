@@ -1,0 +1,12 @@
+{
+  "id": 3102002698,
+  "name": "Succubus Rebirth",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Banish 1 Fiend-Type monster from your Graveyard to target 1 *Succubus* monster in your Graveyard; Special Summon that target.",
+  "images": [
+    "https://i.ibb.co/Nnyq95f6/Succubus-Rebirth.png"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}
