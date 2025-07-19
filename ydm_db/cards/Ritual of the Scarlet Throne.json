@@ -1,0 +1,12 @@
+{
+  "id": 31020026914,
+  "name": "Ritual of the Scarlet Throne",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card is used to Ritual Summon *Succubus Princess Reina.* You must also Tribute monsters from your hand or field, or banish *Succubus* monsters from your Graveyard, whose total Levels equal 6 or more./nIf this card is sent from the hand or field to the Graveyard: You can add 1 *Succubus* monster from your Deck to your hand, except "Succubus Princess Reina." You can only use this effect of "Ritual of the Scarlet Throne" once per turn.",
+  "images": [
+    "https://i.ibb.co/szYkwPJ/Ritual-of-the-Scarlet-Throne.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
