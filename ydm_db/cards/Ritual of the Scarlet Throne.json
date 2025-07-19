@@ -1,5 +1,5 @@
 {
-  "id": 510201026914,
+  "id": 690201026914,
   "name": "Ritual of the Scarlet Throne",
   "is_illegal": false,
   "is_custom": true,
@@ -8,5 +8,5 @@
     "https://i.ibb.co/szYkwPJ/Ritual-of-the-Scarlet-Throne.png"
   ],
   "type": "Spell",
-  "spell_type": "Normal"
+  "spell_type": "Ritual"
 }
