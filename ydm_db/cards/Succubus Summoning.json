@@ -1,0 +1,12 @@
+{
+  "id": 31020026911,
+  "name": "Succubus Summoning",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Add 1 *Succubus* monster from your Deck to your hand.",
+  "images": [
+    "https://i.ibb.co/cScmHx5h/Succubus-Summoning.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
