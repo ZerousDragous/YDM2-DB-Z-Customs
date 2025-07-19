@@ -1,0 +1,12 @@
+{
+  "id": 97077563,
+  "name": "Irresistibility",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "All monsters your opponent controls are changed to face-up Attack Position (Flip effects are not activated). While you control a face-up *Succubus* monster, your opponent’s monsters cannot be changed to Defense Position. If an opponent’s monster battles a *Succubus* monster you control, the opponent’s monster loses 1000 ATK during damage calculation only.",
+  "images": [
+    "https://i.ibb.co/LXVh83GF/Irresistibility.png"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}
