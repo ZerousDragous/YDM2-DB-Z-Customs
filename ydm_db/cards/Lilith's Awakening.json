@@ -1,0 +1,12 @@
+{
+  "id": 31020026911,
+  "name": "Lilith's Awakening",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 Rank 5 Fiend Xyz monster you control; Special Summon *Mother of All Succubi: Lilith* by using the targeted monster as material. This Special Summon is treated as an Xyz Summon, and all Xyz Materials from the targeted monster are transferred to *Mother of All Succubi: Lilith*.",
+  "images": [
+    "https://i.ibb.co/SDMXcMrt/Lilith-s-Awakening.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
