@@ -1,0 +1,24 @@
+{
+  "id": ,
+  "name": "",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "",
+  "atk": ,
+  "species": "",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": ,
+  "level": 8,
+  "is_tuner": false,
+  "pendulum_text": "(This cards name is always treated as ”Dark Magician”)/nWhen this card is Pendulum Summoned you may target 1 spell/trap card on the field and destroy it",
+  "pendulum_scale_left_blue": 13,
+  "pendulum_scale_right_red": 13
+}
