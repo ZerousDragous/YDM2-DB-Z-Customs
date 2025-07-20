@@ -1,0 +1,24 @@
+{
+  "id": 57448410,
+  "name": "Prima Materiactor",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This cards name is always treated as \"Blue-Eyes White Dragon\")/nWhen this card is Pendulum Summoned you may target 1 monster your opponent controls and destroy it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/57448410.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 8,
+  "is_tuner": false,
+  "pendulum_text": "Xyz Monsters you control gain 100 ATK for each Xyz Material on the field. You can target 1 \"Materiactor\" Xyz Monster you control; attach this card to it as material, then draw 1 card. You can only use this effect of \"Prima Materiactor\" once per turn.",
+  "pendulum_scale_left_blue": 1,
+  "pendulum_scale_right_red": 1
+}
