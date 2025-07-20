@@ -3,19 +3,19 @@
   "name": "ZW - Phoenix Bow",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can target 1 face-up \"Number C39: Utopia Ray\" you control; equip this card from your hand to that target. It gains 1100 ATK. When the equipped monster destroys an opponent's monster by battle: Inflict 1000 damage to your opponent. You can only control 1 face-up \"ZW - Phoenix Bow\".",
+  "text": "You can only control 1 \"ZW - Sylphid Wing\". You can target 1 \"Utopia\" monster you control; equip this card from your hand or field to it. It gains 800 ATK. Once per turn, if a monster(s) is Special Summoned by your opponent's activated effect: You can make the equipped monster gain 1600 ATK. (This ATK gain remains even if this card leaves the field or the monster becomes unaffected by card effects.) If you activate the equipped monster's effect by detaching its material, you can send this card to the GY instead of 1 of those materials.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/87008374.jpg"
+    "https://ms.yugipedia.com//7/73/ZWSylphidWing-BROL-EN-UR-1E.png"
   ],
   "type": "Monster",
-  "attribute": "FIRE",
-  "atk": 1100,
-  "species": "Winged Beast",
+  "attribute": "LIGHT",
+  "atk": 800,
+  "species": "Beast",
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": 0,
-  "level": 3,
+  "def": 1600,
+  "level": 4,
   "is_tuner": false
 }
