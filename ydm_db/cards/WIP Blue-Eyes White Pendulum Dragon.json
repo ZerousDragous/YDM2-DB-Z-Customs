@@ -1,11 +1,11 @@
 {
-  "id": ,
+  "id": 6812113082,
   "name": "Blue-Eyes White Pendulum Dragon",
   "is_illegal": false,
   "is_custom": true,
   "text": "(This cards name is always treated as \"Blue-Eyes White Dragon\")/nWhen this card is Pendulum Summoned you may target 1 monster your opponent controls and destroy it.",
   "images": [
-    ""
+    "https://i.ibb.co/RT6YKykK/Blue-Eyes-White-Pendulum-Dragon.png"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
