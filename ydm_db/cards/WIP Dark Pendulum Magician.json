@@ -3,9 +3,9 @@
   "name": "Dark Pendulum Magician",
   "is_illegal": false,
   "is_custom": true,
-  "text": "(This cards name is always treated as \"Dark Magician\")/nWhen this card is Pendulum Summoned you may target 1 spell/trap card on the field and destroy it",
+  "text": "(This cards name is always treated as \"Dark Magician\")/nWhen this card is Pendulum Summoned you may target 1 spell/trap card on the field and destroy it.",
   "images": [
-    "https://i.ibb.co/JWF9z4YN/Dark-Pendulum-Magician.png"
+    "https://i.ibb.co/ch5xHjRC/Dark-Pendulum-Magician.png"
   ],
   "type": "Monster",
   "attribute": "DARK",
@@ -18,7 +18,7 @@
   "def": 2100,
   "level": 3,
   "is_tuner": false,
-  "pendulum_text": "(This cards name is always treated as ”Dark Magician”)/nWhen this card is Pendulum Summoned you may target 1 spell/trap card on the field and destroy it",
+  "pendulum_text": "During your turn, you can pay 1000 Life Points to activate a Spell effect twice. Unless you have a “Magician” card in your other Pendulum zone, this card’s pendulum scale becomes 4.",
   "pendulum_scale_left_blue": 8,
   "pendulum_scale_right_red": 8
 }
